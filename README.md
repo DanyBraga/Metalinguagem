@@ -40,5 +40,5 @@ O backlog foi estruturado em 26 tarefas, abrangendo planejamento, desenvolviment
 
 ### 🔗 Links
 - 📋 Issues (Backlog): [Backlog](https://github.com/DanyBraga/Metalinguagem/issues) 
-- 📊 Kanban: [Quadro Kanban Canva](https://canva.link/xo54b2d94fp9fqb)
-- [Quadro Kanban Github](https://github.com/users/DanyBraga/projects/1/views/1) 
+- 📊 Kanban: [Quadro Kanban Canva](https://canva.link/xo54b2d94fp9fqb), 
+      [Quadro Kanban Github](https://github.com/users/DanyBraga/projects/1/views/1) 
