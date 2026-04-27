@@ -42,3 +42,33 @@ O backlog foi estruturado em 26 tarefas, abrangendo planejamento, desenvolviment
 - 📋 Issues (Backlog): [Backlog](https://github.com/DanyBraga/Metalinguagem/issues) 
 - 📊 Kanban: [Quadro Kanban Canva](https://canva.link/xo54b2d94fp9fqb), 
       [Quadro Kanban Github](https://github.com/users/DanyBraga/projects/1/views/1) 
+
+## 🚀 Sprint 2 (1 semana)
+
+**Objetivo:** Desenvolver o roteiro e iniciar a construção visual da HQ
+
+**To do:**
+
+- T9 – Inserir metalinguagem no roteiro  
+- T10 – Inserir uso da IA na narrativa  
+- T12 – Definir enquadramento  
+- T13 – Definir ordem de leitura
+- T15 - Escolher estilo visual da HQ
+
+  
+**In Progress**
+- T11 – Criar storyboard  
+- T16 - Gerar imagens
+- T26 – Garantir repositório público
+- T24 – Atualizar README 
+- T23 – Organizar arquivos
+  
+**Done**
+- T7 – Definir papéis dos personagens  
+- T8 – Criar estrutura da história  
+- T25 – Revisar Kanban  
+
+---
+
+## 🚀 Sprint 2
+[Link](https://github.com/DanyBraga/Metalinguagem/issues?q=state%3Aopen%20label%3A%22sprint%20-2%22)
