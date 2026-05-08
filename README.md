@@ -72,3 +72,31 @@ O backlog foi estruturado em 26 tarefas, abrangendo planejamento, desenvolviment
 
 ## 🚀 Sprint 2
 [Link](https://github.com/DanyBraga/Metalinguagem/issues?q=state%3Aopen%20label%3A%22sprint%20-2%22)
+
+## 🚀 Sprint 3 (1 semana)
+
+**Objetivo:** Finalizar o projeto
+
+**To do:**
+- T24 – Atualizar README 
+- T23 – Organizar arquivos
+- T26 – Garantir repositório público
+  
+**In Progress**
+- T25 – Revisar Kanban 
+- T11 – Criar storyboard  
+- T16 - Gerar imagens
+
+**Done**
+- T9 – Inserir metalinguagem no roteiro  
+- T10 – Inserir uso da IA na narrativa  
+- T12 – Definir enquadramento  
+- T13 – Definir ordem de leitura
+- T15 - Escolher estilo visual da HQ
+- T7 – Definir papéis dos personagens  
+- T8 – Criar estrutura da história  
+
+## 🚀 Sprint 3
+[Link](https://github.com/DanyBraga/Metalinguagem/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22sprint%20-3%22)
+
+ 
